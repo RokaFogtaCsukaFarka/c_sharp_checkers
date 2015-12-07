@@ -1,0 +1,12 @@
+C:\Users\HP\Documents\SharpDevelop Projects\sfx3nr\sfx3nr\obj\Debug\sfx3nr.MainForm.resources
+C:\Users\HP\Documents\SharpDevelop Projects\sfx3nr\sfx3nr\obj\Debug\sfx3nr.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\SharpDevelop Projects\sfx3nr\sfx3nr\bin\Debug\sfx3nr.exe.config
+C:\Users\HP\Documents\SharpDevelop Projects\sfx3nr\sfx3nr\obj\Debug\sfx3nr.Properties.Resources.resources
+C:\Users\HP\Documents\SharpDevelop Projects\sfx3nr\sfx3nr\obj\Debug\sfx3nr.HighscoresForm.resources
+C:\Users\HP\Documents\SharpDevelop Projects\sfx3nr\sfx3nr\bin\Debug\sfx3nr.exe
+C:\Users\HP\Documents\SharpDevelop Projects\sfx3nr\sfx3nr\bin\Debug\sfx3nr.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\sfx3nr\sfx3nr\obj\Debug\sfx3nr.exe
+C:\Users\HP\Documents\SharpDevelop Projects\sfx3nr\sfx3nr\obj\Debug\sfx3nr.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\sfx3nr\sfx3nr\obj\Debug\sfx3nr.AbortationForm.resources
+C:\Users\HP\Documents\SharpDevelop Projects\sfx3nr\sfx3nr\obj\Debug\sfx3nr.GameForm.resources
+C:\Users\HP\Documents\SharpDevelop Projects\sfx3nr\sfx3nr\obj\Debug\sfx3nr.csprojResolveAssemblyReference.cache
