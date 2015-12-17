@@ -1,4 +1,4 @@
-# c_sharp_checkers
+# c_sharp_checkers Beta
 This is a checkers game made by me as a University Project
 
 ##Checkers Game Rules
