@@ -500,7 +500,7 @@ namespace sfx3nr
                                     !((toNumInt - fromNumInt) == 9 || (toNumInt - fromNumInt) == 7))
                                     throw new UnavailableMoveException("There is not such move for a normal puppet. Try again diagonally, and forward!");
                                 // Else if the puppet to be moved is a king and there is no beatable enemy againts it and wants to move other than diagonally
-                                else if ((tuple.Item1.Substring(0, 3) == "111") && (!(((toNumInt - fromNumInt) == 9) || (toNumInt - fromNumInt) == 7) ||
+                                else if ((tuple.Item1.Substring(0, 3) == "111") && !(!(((toNumInt - fromNumInt) == 9) || (toNumInt - fromNumInt) == 7) ||
                                     !((toNumInt - fromNumInt) == -9) || ((toNumInt - fromNumInt) == -7)))
                                     throw new UnavailableMoveException("There is not such move for a king puppet. Try again diagonally, and forward!");
                                 // Move puppet in the array
@@ -544,7 +544,7 @@ namespace sfx3nr
                             if (canBeat)
                                 gameForm.previous_step_listBox.Items.Add("BEAT");
                             gameTable.NoOfMoves++;
-                            logger.Write("black - " + move.Key + ":" + move.Value + "-> " + fromNumInt + ":" + toNumInt);
+                            logger.Write("black - " + move.Key + ":" + move.Value + " -> " + fromNumInt + ":" + toNumInt + "\n");
                         }
                     }
 
