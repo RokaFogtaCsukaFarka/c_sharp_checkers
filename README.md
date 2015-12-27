@@ -27,6 +27,8 @@ After that if you open a new game you can play with it according to the rules ab
 If some player doesn't have any opponent, or cannot move anyway than the game stops.
 
 You find the binaries in the bin/Debug/ directory!
+Of you want to use the project, you'll have to build your own version after downloading the files. 
+This requires a Microsoft.ACE.OLEDB module installed.
 
 Some logging is performed into the logger.txt!
 Thank you for playing with this game!
